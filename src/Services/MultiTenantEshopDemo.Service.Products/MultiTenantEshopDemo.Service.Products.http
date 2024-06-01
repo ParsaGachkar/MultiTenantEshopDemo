@@ -1,0 +1,6 @@
+@MultiTenantEshopDemo.Service.Products_HostAddress = http://localhost:5215
+
+GET {{MultiTenantEshopDemo.Service.Products_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
